@@ -15,7 +15,7 @@ export const Home = () => {
 	// getPlanets()
    },[])
 
-console.log(store.characters);
+
 
 	return (
 		<div className="text-center mt-5">
